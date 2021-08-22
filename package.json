@@ -1,0 +1,15 @@
+{
+  "name": "idle-script",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "collect": "node src/collect.js"
+  },
+  "dependencies": {
+    "@hiveio/dhive": "^1.0.1",
+    "@hiveio/hive-js": "^2.0.4",
+    "axios": "^0.19.0",
+    "eosjs-ecc": "^4.0.7",
+    "line-by-line": "^0.1.6"
+  }
+}
